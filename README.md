@@ -17,39 +17,43 @@ Project Management Tool is a full-stack web application built with React JS for 
 
 ## Demo Video
 
-Watch a demo of the Project Management Tool in action [here](link-to-demo-video).
+Watch a demo of the Project Management Tool in action 
+[![here](https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/VideoPreview.png)](https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/PMT.mp4).
 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/1_Home.png" alt="Home Page" width="50%">
 
 ### Signup
-![Signup](screenshots/signup.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/2_SignUp.png" alt="SignUp" width="50%">
 
 ### Login
-![Login](screenshots/login.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/3_Login.png" alt="Login" width="50%">
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/4_Dashboard.png" alt="Dashboard" width="50%">
 
-### Create Project
-![Create Project](screenshots/create-project.png)
+### Create New Project
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/5_CreateProject.png" alt="Create Project" width="50%">
 
 ### Project Board
-![Project Board](screenshots/project-board.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/6_Dashboard2.png" alt="Dashboard2" width="50%">   
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/7_ProjectBoard.png" alt="Project Board" width="50%">
 
 ### Create Task
-![Create Task](screenshots/create-task.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/8_CreateTask.png" alt="Create Task" width="50%">   
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/9_ProjectBoard2.png" alt="Project Board2" width="50%">
 
 ### Project Updates
-![Project Updates](screenshots/project-updates.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/10_Dashboard3.png" alt="Dashboard3" width="50%">   
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/11_UpdateProject.png" alt="Project Updates" width="50%">
 
 ### Delete Project
-![Delete Project](screenshots/delete-project.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/12_DeleteProject.png" alt="Delete Project" width="50%">
 
 ### Dashboard After Deletion
-![Dashboard After Deletion](screenshots/dashboard-after-deletion.png)
+<img src="https://raw.githubusercontent.com/potdukhe12/Project-Management-Tool/main/Video-and-Screenshot/13_Dashboard4.png" alt="Dashboard After Deletion" width="50%">
 
 
 ## Installation
@@ -65,8 +69,10 @@ Watch a demo of the Project Management Tool in action [here](link-to-demo-video)
 5. Configure the application with your MySQL database credentials.
 
 6. Run the application:
+   
    a. `npm start`: for React JS
-   b. Run Spring Boot Application: for Backend server
+   
+   b. Run Spring Boot Application: for the Backend server
 
 
 
